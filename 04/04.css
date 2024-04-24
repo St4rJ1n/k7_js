@@ -1,0 +1,12 @@
+#btDiv img{
+    display: inline-flex;
+    margin: 10px;
+}
+
+#btDiv > p {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
