@@ -4,6 +4,7 @@ article {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-weight: bold;
 }
 
 div {
@@ -29,7 +30,6 @@ p {
   }
 
 button {
-    width: 100px;
     height: 40px;
     padding: 10px;
     background-color: blue;
