@@ -1,0 +1,22 @@
+.div71, .div72 {
+    background-color: white;
+    border: none;
+    margin: 10px 20px;
+  } 
+  .div71 {
+    width: 50%;
+  }
+  
+  .div72 {
+    width: 100%;  
+  }
+  
+  .bt7 {
+    width: 100%;
+  }
+  
+  #txt1, #txt2 {
+    width: 100%;
+    text-align: center;
+    font-size: large;
+  }
